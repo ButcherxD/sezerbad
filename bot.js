@@ -20,8 +20,8 @@ const gif = require("gif-search");
 
 const client = new Discord.Client({disableEveryone: true});
 
-const prefix = "1";
-var adminprefix = '1'
+const prefix = "B";
+var adminprefix = 'B'
 /////////////////////////
 ////////////////////////
 
@@ -367,4 +367,4 @@ if (message.content.startsWith(adminprefix + 'setava')) {
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login(NjM5MDgyNTYyMjIzODY1ODU4.Xbm8Yg.39U4Oyfm1PLJvd-3hT6HUzfuKqU);
